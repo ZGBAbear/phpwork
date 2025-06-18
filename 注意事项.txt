@@ -1,0 +1,7 @@
+小皮：Apache2.4.39  Mysql5.7.26
+Navicat  Premium 17 
+Visual  Studio  Code
+主机：localhost_3306
+数据库：cloudingshopping
+用户名：root
+密码：root123
